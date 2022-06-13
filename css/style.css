@@ -480,11 +480,19 @@ body {
 	color: #fff;
 }
 
-
+.time-wrapper {
+	width: 75%;
+}
+@media (max-width:900px) {
+	.time-wrapper {
+		width: 90%;
+	}
+}
 #time {	
 	width: 100%;
 	margin-bottom: 40px;
 	text-align: center;
+	
 }
 
 .countdown {
