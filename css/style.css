@@ -541,6 +541,12 @@ body {
 	}
 }
 
+@media (max-width:1024px) {
+	.actions.calendar {
+		display: none;
+	}
+}
+
 #time {
 	width: 100%;
 	margin-bottom: 40px;
