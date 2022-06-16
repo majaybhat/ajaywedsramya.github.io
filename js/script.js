@@ -5,9 +5,6 @@
 })(jQuery);
 
 
-$(document).on('click', function(){
-    document.getElementById('my_audio').play();
-});
 
 // Set the date we're counting down to
 var countDownDate = new Date('2022-07-03T07:00:00.000Z').getTime();

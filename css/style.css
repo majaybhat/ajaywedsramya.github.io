@@ -451,7 +451,7 @@ img {
 	font-style: normal;
 	font-size: 32px;
 	color: #674ea7;
-	margin: 16px 16px 40px 16px;
+	margin: 2px 16px 40px 16px;
 	text-align: center;
 }
 
@@ -466,7 +466,7 @@ img {
 
 .title p {
 	color: #564861;
-	margin: 30px 0 20px;
+	margin: 30px 0px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	font-size: 16px;
@@ -545,7 +545,7 @@ body {
 	width: 100%;
 	margin-bottom: 40px;
 	text-align: center;
-
+	color: #564861;
 }
 
 .countdown {
@@ -636,7 +636,7 @@ a {
 }
 
 .social-media-section .heading {
-	color: #874562;
+	color: #674ea7;
 	font-size: 24px;
 	font-weight: bold;
 	text-align: center;
@@ -651,5 +651,12 @@ a {
 }
 
 .social-media-section .items a {
-	color: #874562
+	color: #674ea7
+}
+.title .address p {
+	margin:20px 0px;
+}
+
+.title .time {
+	margin:20px 0px;
 }
